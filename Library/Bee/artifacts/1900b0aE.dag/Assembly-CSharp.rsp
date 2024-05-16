@@ -369,13 +369,14 @@
 "Assets/Scripts/AttackRange.cs"
 "Assets/Scripts/AttackType.cs"
 "Assets/Scripts/CombatConfig.cs"
-"Assets/Scripts/EarnConfig.cs"
 "Assets/Scripts/HealthConfig.cs"
 "Assets/Scripts/IAttacker.cs"
 "Assets/Scripts/IDisposable.cs"
 "Assets/Scripts/IHealth.cs"
 "Assets/Scripts/IInitializable.cs"
+"Assets/Scripts/MoneyConfig.cs"
 "Assets/Scripts/Unit.cs"
+"Assets/Scripts/XPConfig.cs"
 -langversion:9.0
 
 /deterministic

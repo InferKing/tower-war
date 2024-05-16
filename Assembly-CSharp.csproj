@@ -64,10 +64,11 @@
     <Compile Include="Assets\Scripts\CombatConfig.cs" />
     <Compile Include="Assets\Scripts\HealthConfig.cs" />
     <Compile Include="Assets\Scripts\IAttacker.cs" />
-    <Compile Include="Assets\Scripts\EarnConfig.cs" />
     <Compile Include="Assets\Scripts\AttackRange.cs" />
     <Compile Include="Assets\Scripts\Unit.cs" />
+    <Compile Include="Assets\Scripts\MoneyConfig.cs" />
     <Compile Include="Assets\Scripts\IHealth.cs" />
+    <Compile Include="Assets\Scripts\XPConfig.cs" />
     <Compile Include="Assets\Scripts\AttackType.cs" />
   </ItemGroup>
   <ItemGroup>
