@@ -1,5 +1,6 @@
 public interface IHealth
 {
-    int CurrentHealth { get; protected set; }
+    int CurrentHealth { get; set; }
+    int CurrentArmor { get; set; }
     HealthConfig HealthConfig { get; }
 }
