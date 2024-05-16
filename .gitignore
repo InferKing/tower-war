@@ -1,4 +1,4 @@
-Library/*
-.vs
-Logs
-Temp
+Library/
+.vs/
+Logs/
+Temp/
