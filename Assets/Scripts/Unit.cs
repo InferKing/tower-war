@@ -12,11 +12,11 @@ public abstract class Unit : MonoBehaviour, IInitializable, IDisposable, IHealth
 
     public void Dispose()
     {
-        throw new System.NotImplementedException();
+        
     }
 
     public void Initialize()
     {
-        throw new System.NotImplementedException();
+        
     }
 }
